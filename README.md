@@ -32,7 +32,6 @@
 
 ### 🔹 Download Precompiled Build
 
-bash
 Head to releases, or [here](google.com)
 
 
