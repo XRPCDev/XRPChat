@@ -1,5 +1,9 @@
 # XRPChat - Secure, Private, Decentralized Messaging
 
+
+
+![img.png](img.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.42-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
