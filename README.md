@@ -1,9 +1,9 @@
-![XRPChat](https://your-logo-url.com/logo.png)
+![XRPChat]([XRPChat Logo](https://files.catbox.moe/17f175.jpg))
 
 # XRPChat - Secure, Private, Decentralized Messaging
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Version](https://img.shields.io/badge/version-1.42-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 **XRPChat** is a cutting-edge, privacy-oriented messaging platform similar to **SimpleX** but with enhanced security and seamless crypto integration. Designed for individuals and organizations that value privacy, XRPChat offers a secure, decentralized, and feature-rich communication experience.
@@ -30,13 +30,10 @@
 
 ## 📦 Installation
 
-### 🔹 Build from Source
+### 🔹 Download Precompiled Build
 
 ```bash
-git clone https://github.com/yourusername/XRPChat.git
-cd XRPChat
-npm install  # or yarn install
-npm start
+Head to releases, or [here](google.com)
 ```
 
 ### 🔹 Docker Deployment
@@ -80,12 +77,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you like **XRPChat**, please ⭐ star the repo to help us grow!
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/XRPChat?style=social)](https://github.com/yourusername/XRPChat)
+[![Star on GitHub](https://img.shields.io/github/stars/XRPCDev/XRPChat?style=social)](https://github.com/XRPCDev/XRPChat)
 
 ---
 
 ### 🔗 Connect With Us
 
-🌍 Website: [https://xrpchat.io](https://xrpchat.io)  
-💬 Discord: [Join our community](https://discord.gg/your-invite)  
+🌍 Website: [https://xrpchat.io](https://xrpchat.org)  
 🐦 Twitter: [@XRPChat](https://twitter.com/XRPChat)  
