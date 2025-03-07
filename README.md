@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.42-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
-**XRPChat** is a cutting-edge, privacy-oriented messaging platform similar to **SimpleX** but with enhanced security and seamless crypto integration. Designed for individuals and organizations that value privacy, XRPChat offers a secure, decentralized, and feature-rich communication experience.
+**XRPChat** is a cutting-edge, privacy-oriented messaging platform similar to **SimpleX**, but with enhanced security and seamless cryptography integration. Designed for individuals and organizations that value privacy, XRPChat offers a secure, decentralized, and feature-rich communication experience.
 
 ---
 ![img.png](img.png)
