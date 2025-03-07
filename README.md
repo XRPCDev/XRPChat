@@ -81,5 +81,5 @@ If you like **XRPChat**, please ⭐ star the repo to help us grow!
 
 ### 🔗 Connect With Us
 
-🌍 Website: [https://xrpchat.io](https://xrpchat.org)  
+🌍 Website: [https://xrpchat.org](https://xrpchat.org)  
 🐦 Twitter: [@XRPChat](https://twitter.com/XRPChat)  
