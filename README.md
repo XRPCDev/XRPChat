@@ -30,7 +30,7 @@
 
 ### 🔹 Download Precompiled Build
 
-Head to releases, or [here](google.com)
+Head to releases, or [here](https://github.com/XRPCDev/XRPChat/releases/tag/v1.42)
 
 
 ### 🔹 Docker Deployment
