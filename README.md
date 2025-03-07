@@ -1,5 +1,3 @@
-![XRPChat]([XRPChat Logo](https://files.catbox.moe/17f175.jpg))
-
 # XRPChat - Secure, Private, Decentralized Messaging
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
