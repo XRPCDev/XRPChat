@@ -20,8 +20,6 @@
 
 ✅ **Self-Destructing Messages** – Configure messages to disappear after a set duration.
 
-✅ **On-Chain Payments (XRP)** – Send XRP payments directly through the chat interface.
-
 ✅ **Open-Source & Auditable** – 100% open-source, allowing full transparency and security verification.
 
 ✅ **Multi-Platform Support** – Available on Windows, macOS, Linux, and mobile.
@@ -45,9 +43,8 @@ docker pull yourusername/xrpchat
 
 ## 📜 Usage
 
-1. **Create a Wallet** – Generate your anonymous XRP wallet within XRPChat.
-2. **Add Contacts** – Share your unique chat ID without exposing your identity.
-3. **Start Chatting** – Securely exchange messages and payments with end-to-end encryption.
+1. **Add Contacts** – Share your unique chat ID without exposing your identity.
+2. **Start Chatting** – Securely exchange messages and payments with end-to-end encryption.
 
 ---
 
